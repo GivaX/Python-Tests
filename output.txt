@@ -1,0 +1,4 @@
+apple 3 
+banana 56 
+mango 1 
+grapes 5 
